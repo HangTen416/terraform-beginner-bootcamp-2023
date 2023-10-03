@@ -12,3 +12,5 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 MAJOR.MINOR.PATCH
 eg. 1.0.3
+
+[Terraform Refactoring to correct gpg keyring changes and to allow unattended install](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
