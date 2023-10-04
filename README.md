@@ -15,7 +15,6 @@ eg. 1.0.3
 
 [Terraform Refactoring to correct gpg keyring changes and to allow unattended install](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 
-
 ## Refactoring into Bash scripts
 
 - The new script is considerably longer than the original so we created a bash script to make it easier to debug and install the Terraform CLI
